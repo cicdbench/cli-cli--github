@@ -506,3 +506,4 @@ func mightBeGHESUser(cfg gh.Config) bool {
 		return ghauth.IsEnterprise(host)
 	})
 }
+// cicdbench edit
